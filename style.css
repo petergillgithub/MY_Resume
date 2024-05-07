@@ -4,15 +4,28 @@ body {
     padding: 0;
     background-color: blanchedalmond;
     color: #333;
+    
+}
+.containerheading{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 100%;
 }
 .namebig{
     font-size: 50px;
     
+    
+}
+.Linkdin {
+    text-align:center;
 }
 
 header{
     text-align: center;
     font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    
+
 }
 header,section{
     background-color: white;
@@ -22,6 +35,7 @@ header,section{
     padding: 20px;
     border-radius: 8px;
     border: solid;
+    
     
     
 
